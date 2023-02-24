@@ -1,0 +1,9 @@
+{
+    "name": "Iranian website's ad-hoc list",
+    "description": "Additional sketch domains as I come across them.",
+    "homeurl": "https://github.com/momohammadi/hosts/blob/master/data/Iranian/hosts",
+    "frequency": "occasionally",
+    "issues": "https://github.com/momohammadi/hosts/issues",
+    "url": "https://raw.githubusercontent.com/momohammadi/hosts/master/data/Iranian/hosts",
+    "license": "MIT"
+}
